@@ -476,7 +476,7 @@
       rgba(235, 151, 78, 0.35),
       rgba(230, 125, 34, 0.35)
     ),
-    url("/07-Omnifood-Desktop/content/img/eating.jpg");
+    url("eating.jpg");
   background-size: cover;
   background-position: center;
 }
